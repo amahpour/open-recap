@@ -1,6 +1,6 @@
 # open-recap
 
-Transcribe videos and extract visual context from recordings. A homebrew [Otter.ai](https://otter.ai) — transcribe what was said, then see what was on screen.
+Transcribe videos and extract visual context from recordings. A homebrewed transcribe what was said, then see what was on screen.
 
 Built on [OpenAI Whisper](https://github.com/openai/whisper) for transcription and `ffmpeg` for frame extraction.
 
